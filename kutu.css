@@ -1,0 +1,48 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+
+#buyukkutu
+{
+    width: 400px;
+    height: 200px;
+    border-width: 2px;
+    border-style: solid;
+    margin: auto;
+    background-color: aqua;
+    background-image: url(images/ardalan.jpg);
+}
+
+#kutu1{
+    width: 100px;
+    height: 100px;
+    border-width: 2px;
+    border-style: dotted;
+    background-color: green;
+    float: left;
+}
+
+#kutu2{
+    width: 100px;
+    height: 100px;
+    border-width: 2px;
+    border-style: dashed;
+    background-color: red;
+    float: left;
+}
+#kutu3{
+    width: 100px;
+    height: 100px;
+    border-width: 2px;
+    border-style: solid;
+    background-color: blue;
+    float: left;
+}
+.kutu{
+    margin-top:20px;
+    margin-left:10px;
+    border-radius:10px;
+    /* background-image: url(images/bayrak.jpg); */
+
+}
